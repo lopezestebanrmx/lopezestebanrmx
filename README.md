@@ -1,6 +1,6 @@
 # Hola, soy Esteban López 👋
 
-Desarrollador web en Monterrey, México. Vengo de más de 12 años en soporte técnico y operación de talleres de reparación, y hoy construyo el software que esos negocios necesitan.
+Desarrollador web en Monterrey, México. Vengo de más de 12 años en soporte técnico y operación de talleres de reparación de equipos informaticos, y hoy construyo el software que esos negocios necesitan.
 
 **Cómo trabajo:** uso una IA para cuestionar y mejorar la idea, otra para construirla, y yo decido y verifico cada cambio con pruebas antes de publicarlo.
 
