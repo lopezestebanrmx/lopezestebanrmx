@@ -39,6 +39,26 @@ Lo diseñé y lo llevé a producción en 5 semanas, con desarrollo asistido por 
 
 ---
 
+## 🛼 El Magic: juego web 3D de patinaje en línea
+
+**[Jugar en elmagicgame.com →](https://elmagicgame.com)** · En desarrollo desde noviembre de 2026 · Código privado
+
+Juego de carreras de patines ambientado en Monterrey, que se juega desde el navegador del celular y se instala como app.
+
+- **Gráficos 3D** con Three.js: calles con curvas y bajadas, tráfico, rivales con física propia y calidad que se ajusta sola según los FPS del celular.
+- **Juego completo:** misiones, persecuciones, trucos y grinds, tienda con economía de monedas y personalización del patinador.
+- **Funciona sin internet** (PWA) y el audio se sintetiza en tiempo real con Web Audio, sin archivos de sonido.
+- **Backend** de cuentas en Cloudflare Workers con base de datos D1.
+- **Calidad:** más de 460 pruebas automatizadas con Vitest; lógica del juego separada del render.
+
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
+
+---
+
 ## 🌐 Sitio web de Systel MTY
 
 **[systel-web.vercel.app](https://systel-web.vercel.app)** · [Código](https://github.com/lopezestebanrmx/systel-web)
